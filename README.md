@@ -6,6 +6,6 @@ of functions and arrays.
 
 You can find the links to the site and github repository below.
 
-LINK -->
+LINK --> https://ydna317.github.io/passwordRNG/
 
-REPOSITORY --> 
+REPOSITORY --> https://github.com/Ydna317/passwordRNG
